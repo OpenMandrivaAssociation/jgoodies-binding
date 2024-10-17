@@ -9,7 +9,7 @@ Epoch:          0
 Summary:        JGoodies Data Binding framework
 License:        BSD
 Group:          Development/Java
-URL:            http://www.jgoodies.com/freeware
+URL:            https://www.jgoodies.com/freeware
 Source0:        http://www.jgoodies.com/download/libraries/%{short_name}/%{short_name}-%{cvs_version}.zip
 BuildRequires:  ant
 BuildRequires:  jgoodies-forms
